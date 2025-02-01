@@ -6,3 +6,7 @@ seaborn
 numpy
 ipykernel
 torch
+torchvision
+scikit-learn
+scikit-image
+opencv-contrib-python
